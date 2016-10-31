@@ -1,2 +1,3 @@
 # hello-world
-dug
+Hello humans, I am a hello-world script!
+Duh.
